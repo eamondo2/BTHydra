@@ -9,4 +9,4 @@ This project has almost no progress so far.
 
 I plan to use Jack audio (or  JACK 2, whichever version works the easiest) along with python scripting to handle the pairing, and audio routing. Also, unless Jack has an option to filter stereo channels per stream, I will have to figure out to handle that within python. 
 
-
+The end goal is to allow this single node (integrated into a speaker, to make it useful as is) to collect a number of satellite speakers, and effectively increase the sound output while keeping the cost of the individual speaker low. Cheap bluetooth speakers are easy to find, and generally sound okay at medium volume levels. However, if you try to get much more from them, they become tinny and distorted. If there is a network of five or six such speakers distributed in an area, all playing one synched audio track, the effective output volume over that area is increased without having to hit the upper limit of the speaker's capacity.
